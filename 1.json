@@ -1,0 +1,50 @@
+{
+  "name": "Woof #1",
+  "symbol": "Woof",
+  "description": "Woof is on a mission to spread good vibes across Solana and pee on Cardano.",
+  "seller_fee_basis_points": 0,
+  "image": "0.png",
+  "external_url": "Woof",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown "
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Andel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax "
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nftipfs/w1/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
