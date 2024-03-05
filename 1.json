@@ -3,7 +3,7 @@
   "symbol": "Woof",
   "description": "Woof is on a mission to spread good vibes across Solana and pee on Cardano.",
   "seller_fee_basis_points": 0,
-  "image": "0.png",
+  "image": "https://raw.githubusercontent.com/nftipfs/w1/main/0.png",
   "external_url": "Woof",
   "edition": 0,
   "attributes": [
